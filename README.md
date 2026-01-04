@@ -1,23 +1,141 @@
 <h1 align="center">Hi 👋, I'm Shivendra Singh</h1>
-<h3 align="center">A passionate frontend developer and Competitive Programmer from India</h3>
+<h3 align="center">Frontend Developer • Competitive Programmer • ECE Undergraduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv24116" alt="shiv24116" /></a> </p>
+---
 
-- 🌱 I’m currently learning **React,**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shivendrasingh731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivendrasingh731" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/band_mellow_74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="band_mellow_74" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/singhshivendra1945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="singhshivendra1945" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cemwz8bv96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cemwz8bv96" height="30" width="40" /></a>
+<a href="https://github.com/SHIV24116">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shivendra-singh-93631b324">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>&nbsp;&nbsp;
+<a href="https://shiv24116.github.io/My-Portfolio-Webpage/">
+  <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:singhshivendra1945@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/shivendrasingh731">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<table width="100%">
+<tr>
+
+<td width="60%" valign="center">
+
+## ⚡ About Me
+
+🎓 **B.Tech (ECE), IIIT Jabalpur**  
+💻 Frontend Development & Competitive Programming  
+🧠 Strong in **DSA, clean UI, scalable logic**  
+🚀 Learning **React**  
+🎯 Focused on **Software Engineering Internships**
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">🧩 Tech Stack</h2>
+
+### 🧠 Languages
+<p>
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🌐 Web Development
+<p>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv24116&show_icons=true&locale=en&layout=compact" alt="shiv24116" /></p>
+### 🤖 ML / Computer Vision
+<p>
+  <a href="https://opencv.org/">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv24116&show_icons=true&locale=en" alt="shiv24116" /></p>
+### 🛠️ Tools & Platforms
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.arduino.cc/">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiv24116&" alt="shiv24116" /></p>
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+<a href="https://www.codechef.com/users/band_mellow_74">
+  <img src="https://img.shields.io/badge/CodeChef-band_mellow_74-5B4638?style=for-the-badge&logo=codechef"/>
+</a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/singhshivendra1945">
+  <img src="https://img.shields.io/badge/Codeforces-singhshivendra1945-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/CeMWZ8BV96/">
+  <img src="https://img.shields.io/badge/LeetCode-CeMWZ8BV96-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+<p align="center"><b>340+ problems solved • Regular contests</b></p>
+
+---
+
+<div align="center">
+
+<p><i>"Build daily. Improve quietly.”</i></p>
+
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" 
+/>
+
+<br/><br/>
+
+<b>“Strong fundamentals, built daily — results follow naturally.”</b>
+
+</div>
+
