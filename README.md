@@ -125,12 +125,32 @@
 
 ---
 
+## 🧠 LeetCode Statistics
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/CeMWZ8BV96?theme=dark&font=Baloo&ext=heatmap" 
+  />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SHIV24116&theme=github-dark&hide_border=true" 
+  />
+</p>
+
+---
+
 <div align="center">
 
-<p><i>"Build daily. Improve quietly.”</i></p>
+<p><i>“Build daily. Improve quietly.”</i></p>
 
 <img 
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
 />
 
 <br/><br/>
