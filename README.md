@@ -148,8 +148,9 @@ class Developer {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIV24116&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHIV24116&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6e96" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIV24116&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHIV24116&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHIV24116&theme=radical" />
 </p>
 
 ---
@@ -188,7 +189,7 @@ def coding_profiles():
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
 
 **STATUS:** Active Competitor  
-**FOCUS:** Algorithms
+**FOCUS:** Problem Solving
 
 </td>
 <td align="center" width="33%">
@@ -205,16 +206,6 @@ def coding_profiles():
 </td>
 </tr>
 </table>
-
----
-
-## 📈 **『 CONTRIBUTION MATRIX 』**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIV24116&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHIV24116&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHIV24116&theme=radical" />
-</p>
 
 ---
 
@@ -270,16 +261,6 @@ vision = {
 
 ---
 
-## 🏅 **『 GITHUB ACHIEVEMENTS 』**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHIV24116&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
-
-</div>
-
----
-
 ## 💬 **『 DEVELOPER QUOTE 』**
 
 <div align="center">
@@ -308,13 +289,6 @@ vision = {
 <div align="center">
 
 ```typescript
-interface Collaboration {
-    status: string;
-    availability: boolean;
-    interests: string[];
-    contact: string;
-}
-
 const lets_connect: Collaboration = {
     status: "Open for opportunities & collaborations",
     availability: true,
@@ -332,11 +306,7 @@ console.log(lets_connect);
 <br>
 
 ```bash
-shivendra@developer:~$ ls -la achievements/
-drwxr-xr-x  1000+ problems solved
--rw-r--r--  100+ repositories
--rw-r--r--  500+ contributions this year
--rw-r--r--  Actively learning & building
+ Actively learning & building
 
 shivendra@developer:~$ echo "Thanks for visiting! ⭐"
 > Thanks for visiting! ⭐ Star my repos if you find them useful!
