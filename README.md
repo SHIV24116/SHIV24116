@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Shivendra+Singh+%7C+%F0%9F%92%BB+Frontend+Developer;%E2%9A%A1+Competitive+Programmer+%7C+Problem+Solver+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Shivendra+Singh+%7C+%F0%9F%92%BB+Web+Developer;%E2%9A%A1+Competitive+Programmer+%7C+Problem+Solver+%E2%9A%A1" alt="Typing SVG" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=System%20Initialized...&fontSize=40&fontColor=00ff41&animation=twinkling&fontAlignY=35"/>
 
@@ -55,7 +55,7 @@
 + [STATUS] ═══ ONLINE ═══ CODING ═══ LEARNING ═══ BUILDING
 @@ Crafting solutions, one algorithm at a time @@
 ! Specializing in: Full-Stack Dev | Competitive Programming | Machine Learning
-# Current Mission: Mastering React.js & System Design | Seeking SWE Internships 2026
+# Current Mission: Mastering Backend & System Design | Seeking SWE Internships 2026
 ```
 
 <div align="center">
@@ -84,10 +84,6 @@ class Developer {
             "Full Stack Web Development",
             "Machine Learning & Computer Vision"
         };
-        
-        string currentFocus = "React.js & System Design";
-        bool openToWork = true; // SWE Internships 2026
-        string motto = "Code. Learn. Repeat. 🚀";
         
         void display() {
             cout << "Building the future with clean code!" << endl;
@@ -119,6 +115,15 @@ class Developer {
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000" />
  </p>
 
+ ### **BACKEND TECHNOLOGIES**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=000000" alt="Mongoose" />
+</p>
+
 ### **MACHINE LEARNING & DATA SCIENCE**
 
 <p align="center">
@@ -143,11 +148,6 @@ class Developer {
 ## 📊 **『 SYSTEM STATISTICS 』**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHIV24116&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&ring_color=00f7f7" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIV24116&theme=radical&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6e96&currStreakLabel=00f7f7&sideLabels=00f7f7&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIV24116&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHIV24116&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHIV24116&theme=radical" />
@@ -163,8 +163,7 @@ def coding_profiles():
         "LeetCode": "CeMWZ8BV96",
         "CodeForces": "singhshivendra1945",
         "CodeChef": "band_mellow_74",
-        "Status": "GRINDING_HARD 💪",
-        "Goal": "5★ on all platforms"
+        "Status": "GRINDING_HARD 💪"
     }
 ```
 
@@ -220,7 +219,7 @@ def coding_profiles():
 ```javascript
 const goals = {
     learning: [
-        "⚛️ Master React.js & Next.js",
+        "⚛️ Master Node.js & Express.js",
         "🏗️ System Design Patterns",
         "☁️ Cloud Technologies (AWS)"
     ],
@@ -229,8 +228,10 @@ const goals = {
         "🤖 ML-powered projects",
         "🎨 Interactive UIs"
     ],
-    competitive: [
-        "🏆 5★ on CodeChef",
+    competitive programming goal: [
+        "🏆 3★ on CodeChef",
+        "🏆 Specialist on Codeforces",
+        "🏆 Knight on Leetcode",
         "🔥 100+ day streak"
     ]
 };
@@ -243,9 +244,10 @@ const goals = {
 
 ```python
 vision = {
-    "career": "Software Engineering Internship 2026",
+    "career": "Software Engineering",
     "expertise": [
         "Full-Stack Development",
+        "Artifitial Intelligence,
         "System Design",
         "Competitive Programming"
     ],
@@ -267,19 +269,6 @@ vision = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  "First, solve the problem. Then, write the code."          ║
-║                                        - John Johnson        ║
-║                                                              ║
-║  "Any fool can write code that a computer can understand.   ║
-║   Good programmers write code that humans can understand."  ║
-║                                        - Martin Fowler       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
@@ -287,23 +276,6 @@ vision = {
 ## 📫 **『 READY TO COLLABORATE 』**
 
 <div align="center">
-
-```typescript
-const lets_connect: Collaboration = {
-    status: "Open for opportunities & collaborations",
-    availability: true,
-    interests: ["Web Development", "Competitive Programming", "ML Projects", "Open Source"],
-    contact: "Let's build something amazing together! 🚀"
-};
-
-console.log(lets_connect);
-```
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SHIV24116&style=for-the-badge&color=00f7f7&labelColor=000000)
-
-<br>
 
 ```bash
  Actively learning & building
@@ -317,7 +289,9 @@ shivendra@developer:~$ exit
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SHIV24116&style=for-the-badge&color=00f7f7&labelColor=000000)
+
+<br>
 
 </div>
 
@@ -326,5 +300,8 @@ shivendra@developer:~$ exit
 ### 『 **SYSTEM SHUTDOWN COMPLETE** 』
 
 **Made with 💻 and ☕ by Shivendra Singh**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
+
+<br>
 
 </div>
